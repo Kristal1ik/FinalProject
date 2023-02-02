@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="name">SchHelper</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="need">все, что вам нужно</string>
+    <string name="login">Войти</string>
+    <string name="singup">Зарегистрироваться</string>
+</resources>

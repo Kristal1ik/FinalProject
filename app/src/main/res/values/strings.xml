@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FinalProject</string>
+    <string name="name">SchHelper</string>
+    <string name="welcome">Welcome!</string>
+    <string name="need">all on-one you need</string>
+    <string name="login">Login</string>
+    <string name="singup">SingUp</string>
 </resources>
