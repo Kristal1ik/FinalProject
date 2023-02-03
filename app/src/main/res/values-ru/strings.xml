@@ -5,4 +5,8 @@
     <string name="need">все, что вам нужно</string>
     <string name="login">Войти</string>
     <string name="singup">Зарегистрироваться</string>
+    <string name="welcomeback">С возвращением!</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="newuser">Вы новый пользователь?</string>
 </resources>

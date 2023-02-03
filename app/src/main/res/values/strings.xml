@@ -5,4 +5,8 @@
     <string name="need">all on-one you need</string>
     <string name="login">Login</string>
     <string name="singup">SingUp</string>
+    <string name="welcomeback">Welcome back!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="newuser">Are you a new user?</string>
 </resources>
