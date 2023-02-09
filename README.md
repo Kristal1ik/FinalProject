@@ -1,2 +1,2 @@
 # FinalProject
-ideas:
+ideas: fuzzy logic...
